@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: an unclosed paragraph tag.  The `bug.html` file contains the erroneous code, while `solution.html` presents the corrected version.  This simple example highlights the importance of carefully validating HTML to ensure consistent rendering and avoid unexpected visual glitches.
